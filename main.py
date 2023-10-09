@@ -1,4 +1,3 @@
-
 from todo import ToDoApp
 print('Welcome to "To-do" application\nWhat kind of task do you want to add?\n')
 print('Func : add, discard, list, status')
